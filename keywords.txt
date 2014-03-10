@@ -1,0 +1,15 @@
+/*
+M16 menu keyword file
+*/
+
+M16	KEYWORD1
+m16	KEYWORD1
+checkButtons	KEYWORD2
+buttonSelect	KEYWORD2
+clear	KEYWORD2
+clearLn	KEYWORD2
+printVal	KEYWORD2
+printVal2	KEYWORD2
+printVal3	KEYWORD2
+screen	KEYWORD2
+menuSelect	KEYWORD2
